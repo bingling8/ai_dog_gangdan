@@ -1,0 +1,5 @@
+# .gitignore
+__pycache__/
+ImagesRecognition/__pycache__/
+ImagesRecognition/tmp/
+*.tar
